@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.app", 
+        "aws_region": "ap-south-1",
+        "project_name": "serverless-python", 
+        "runtime": "python2.7", 
+        "s3_bucket": "serverless-python-lspe"
+    }
+}
